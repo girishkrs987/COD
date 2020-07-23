@@ -1,0 +1,169 @@
+{
+	"valuation_percentage": {
+		"context": "NA",
+		"value": "100"
+	},
+	"cptyFixedThresholdType": {
+		"context": "NA",
+		"value": "fixed"
+	},
+	"Counter Party Minimum Transfer Amount Currency": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"cptytriggertype": {
+		"context": "NA",
+		"value": "Fixed Values"
+	},
+	"gracePeriod": {
+		"context": "NA",
+		"value": ""
+	},
+	"Counterparty Fixed Rounding Amount": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"enableInterestCalc": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"fixedVal": {
+		"context": "NA",
+		"value": "TRUE"
+	},
+	"resolution_time": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"compound_interest_calc": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Rounding -- recall": {
+		"context": "NA",
+		"value": "down"
+	},
+	"rehypothecation_flag": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"frequency": {
+		"context": "NA",
+		"value": "DAILY"
+	},
+	"Notification Time": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Base Currency": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Principal Fixed Rounding Amount": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Rounding -- Delivery": {
+		"context": "NA",
+		"value": "up"
+	},
+	"Counter Party Minimum Transfer Amount Value": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"holiday_centre": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"cash_only": {
+		"value": "NA"
+	},
+	"negative_interest": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Rating Method": {
+		"context": "NA",
+		"value": "Issue"
+	},
+	"netting_Interest": {
+		"context": "NA",
+		"value": "Net"
+	},
+	"Principal Minimum Transfer Amount Currency": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"calcRule": {
+		"context": "NA",
+		"value": "First of the Month"
+	},
+	"Principal Fixed Trigger Threshold Currency": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"netting_MTM_And_IA": {
+		"context": "NA",
+		"value": "NET"
+	},
+	"principaltriggertype": {
+		"context": "NA",
+		"value": "Fixed Values"
+	},
+	"Principal Fixed Rounding Amount Currency": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Principal Fixed Trigger Threshold Value": {
+		"context": "NA",
+		"value": "0"
+	},
+	"interest_settlement_date": {
+		"context": "NA",
+		"value": "Same Day"
+	},
+	"resolution_date": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"valuation_agent": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Counterparty Fixed Threshold Currency": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"principalFixedThresholdType": {
+		"context": "NA",
+		"value": "fixed"
+	},
+	"Counterparty Fixed Rounding Amount Currency": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Principal Minimum Transfer Amount Value": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"settlementDateAbbriviated": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"applicable_to_both": {
+		"context": "cash and bond agreement",
+		"value": "false"
+	},
+	"Counterparty Fixed Trigger Threshold Value": {
+		"context": "NA",
+		"value": "0"
+	},
+	"assetName": {
+		"context": "NA",
+		"value": "NA"
+	},
+	"Principal Fixed Trigger Threshold Type": {
+		"context": "NA",
+		"value": "fixed"
+	}
+}
